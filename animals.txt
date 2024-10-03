@@ -1,0 +1,8 @@
+Dumbo, elephant
+Balto, dog
+Kaa, python
+Finn, fox
+Simba, lion
+Lolly, anteater
+Gav, cat
+Marty, zebra
